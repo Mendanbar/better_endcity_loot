@@ -15,7 +15,7 @@
 			"conditions": [
 				{
 					"condition": "minecraft:random_chance",
-					"chance": 0.1
+					"chance": 0.2
 				}
 			],
 			"entries": [
@@ -26,7 +26,7 @@
 			]
 		},
 		{
-			"rolls": 2,
+			"rolls": 1,
 			"conditions": [
 				{
 					"condition": "minecraft:random_chance",
@@ -37,11 +37,33 @@
 				{
 					"type": "loot_table",
 					"name": "minecraft:chests/reference/extra/op_tools"
-				},
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.1
+				}
+			],
+			"entries": [
 				{
 					"type": "loot_table",
 					"name": "minecraft:chests/reference/extra/op_armor"
-				},
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.1
+				}
+			],
+			"entries": [
 				{
 					"type": "loot_table",
 					"name": "minecraft:chests/reference/extra/op_weapons"
