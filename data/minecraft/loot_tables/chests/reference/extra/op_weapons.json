@@ -165,17 +165,17 @@
 				},
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:netherite_sword",
+					"name": "minecraft:netherite_axe",
 					"weight": 1,
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fire_aspect\",lvl:3}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fire_aspect\",lvl:2}]}"
 						},
 						{
 							"function": "minecraft:set_name",
 							"name": {
-								"text": "Sword of Ifrit",
+								"text": "Ifrit's Cleaver",
 								"color": "dark_red",
 								"italic": false,
 								"bold": true
