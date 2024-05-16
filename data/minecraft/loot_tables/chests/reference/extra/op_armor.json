@@ -434,7 +434,7 @@
 							"function": "minecraft:set_name",
 							"name": {
 								"text": "Niflheim Boots",
-								"color": "light_blue",
+								"color": "cyan",
 								"italic": false,
 								"bold": true
 							}

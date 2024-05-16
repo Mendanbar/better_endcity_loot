@@ -230,7 +230,7 @@
 							"function": "minecraft:set_name",
 							"name": {
 								"text": "Triton's Staff",
-								"color": "light_blue",
+								"color": "cyan",
 								"italic": false,
 								"bold": true
 							}
@@ -257,7 +257,7 @@
 							"function": "minecraft:set_name",
 							"name": {
 								"text": "Njord's Vessel",
-								"color": "light_blue",
+								"color": "cyan",
 								"italic": false,
 								"bold": true
 							}
@@ -284,7 +284,7 @@
 							"function": "minecraft:set_name",
 							"name": {
 								"text": "Poseidon's Fury",
-								"color": "light_blue",
+								"color": "cyan",
 								"italic": false,
 								"bold": true
 							}
