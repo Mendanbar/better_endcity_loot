@@ -15,7 +15,7 @@
 						{
 							"function": "minecraft:set_name",
 							"name": {
-								"text": "Protective Helm",
+								"text": "Guardian Helm",
 								"color": "dark_aqua",
 								"italic": false,
 								"bold": true
@@ -116,7 +116,7 @@
 						{
 							"function": "minecraft:set_name",
 							"name": {
-								"text": "Protective Plate",
+								"text": "Guardian Cuirass",
 								"color": "dark_aqua",
 								"italic": false,
 								"bold": true
@@ -244,7 +244,7 @@
 						{
 							"function": "minecraft:set_name",
 							"name": {
-								"text": "Protective Leggings",
+								"text": "Guardian Chausses",
 								"color": "dark_aqua",
 								"italic": false,
 								"bold": true
@@ -325,7 +325,7 @@
 						{
 							"function": "minecraft:set_name",
 							"name": {
-								"text": "Protective Boots",
+								"text": "Guardian Sabotons",
 								"color": "dark_aqua",
 								"italic": false,
 								"bold": true
