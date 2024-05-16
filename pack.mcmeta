@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 10,
+        "pack_format": 23,
         "description": "Replaces end city loot with much better items"
     }
 }
