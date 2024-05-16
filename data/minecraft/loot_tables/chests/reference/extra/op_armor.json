@@ -420,35 +420,7 @@
 							}
 						}
 					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:netherite_boots",
-					"weight": 1,
-					"functions": [
-						{
-							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:frost_walker\",lvl:5}]}"
-						},
-						{
-							"function": "minecraft:set_name",
-							"name": {
-								"text": "Niflheim Boots",
-								"color": "cyan",
-								"italic": false,
-								"bold": true
-							}
-						},
-						{
-							"function": "minecraft:set_damage",
-							"damage": {
-								"min": 0.1,
-								"max": 0.333
-							}
-						}
-					]
 				}
-			]
 		}
     ]
 }
