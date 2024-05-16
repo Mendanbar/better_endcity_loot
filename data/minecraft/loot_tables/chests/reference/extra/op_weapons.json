@@ -133,6 +133,19 @@
 								"italic": true,
 								"bold": false
 							}
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{
+									"text": ""
+								},
+								{
+									"text": "Yeet!",
+									"color": "white",
+									"italic": false
+								}
+							]
 						}
 					]
 				},
