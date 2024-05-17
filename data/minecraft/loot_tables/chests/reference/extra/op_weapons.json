@@ -64,7 +64,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{Unbreakable:1,Enchantments:[{id:\"minecraft:sharpness\",lvl:10},{id:\"minecraft:sweeping\",lvl:10}]}"
+							"tag": "{Unbreakable:1,Enchantments:[{id:\"minecraft:sharpness\",lvl:20},{id:\"minecraft:sweeping\",lvl:10}]}"
 						},
 						{
 							"function": "minecraft:set_name",
