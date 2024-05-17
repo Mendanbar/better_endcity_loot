@@ -294,7 +294,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:1,,Enchantments:[{id:\"minecraft:quick_charge\",lvl:5},{id:\"minecraft:piercing\",lvl:10}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:quick_charge\",lvl:5},{id:\"minecraft:piercing\",lvl:10}]}"
 						},
 						{
 							"function": "minecraft:set_name",
