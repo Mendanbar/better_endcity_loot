@@ -288,8 +288,38 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "type": "minecraft:empty"
-        },
+					"type": "minecraft:item",
+					"name": "minecraft:crossbow",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:1,,Enchantments:[{id:\"minecraft:quick_charge\",lvl:5},{id:\"minecraft:piercing\",lvl:10}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Cheiroballistra",
+								"color": "yellow",
+								"italic": true,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{
+									"text": ""
+								},
+								{
+									"text": "What even is this thing?  Looks dangerous...",
+									"color": "blue",
+									"italic": false
+								}
+							]
+						}
+					]
+				},
         {
           "type": "minecraft:item",
           "name": "minecraft:vex_armor_trim_smithing_template"
