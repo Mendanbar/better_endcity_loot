@@ -10,7 +10,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fortune\",lvl:4}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fortune\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
