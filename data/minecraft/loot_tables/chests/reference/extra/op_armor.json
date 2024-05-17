@@ -10,7 +10,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:respiration\",lvl:10},{id:\"minecraft:aqua_affinity\",lvl:1}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:respiration\",lvl:10},{id:\"minecraft:aqua_affinity\",lvl:1},{id:\"minecraft:depth_strider\",lvl:3}]}"
 						},
 						{
 							"function": "minecraft:set_name",
