@@ -313,8 +313,7 @@
 							"name": {
 								"text": "Geneticist",
 								"color": "dark_aqua",
-								"italic": false,
-								"bold": true
+								"italic": false
 							}
 						}
 					]
@@ -350,8 +349,7 @@
 							"name": {
 								"text": "Geneticist",
 								"color": "red",
-								"italic": false,
-								"bold": true
+								"italic": false
 							}
 						}
 					]
@@ -369,8 +367,7 @@
 							"name": {
 								"text": "Geneticist",
 								"color": "light_purple",
-								"italic": false,
-								"bold": true
+								"italic": false
 							}
 						}
 					]
