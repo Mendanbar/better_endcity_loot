@@ -291,33 +291,6 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:riptide\",lvl:5}]}"
-						},
-						{
-							"function": "minecraft:set_name",
-							"name": {
-								"text": "Njord's Vessel",
-								"color": "aqua",
-								"italic": false,
-								"bold": true
-							}
-						},
-						{
-							"function": "minecraft:set_damage",
-							"damage": {
-								"min": 0.1,
-								"max": 0.333
-							}
-						}
-					]
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:trident",
-					"weight": 1,
-					"functions": [
-						{
-							"function": "minecraft:set_nbt",
 							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:impaling\",lvl:7}]}"
 						},
 						{
